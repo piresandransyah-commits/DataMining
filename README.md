@@ -20,4 +20,4 @@ Predictive Modeling and Factor Analysis of Agricultural Crop Yield using Data Pr
 
 Bivariate Analysis: Generated a Scatter Plot to inspect the linear relationship between rainfall and yield across categories.
 
-Feature Matrix: Created a Correlation Heatmap (RdYlGn) to visualize multi-variable dependencies.
+Feature Matrix: Created a Correlation Heatmap to visualize multi-variable dependencies.
